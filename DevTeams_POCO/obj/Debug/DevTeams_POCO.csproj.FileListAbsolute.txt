@@ -1,0 +1,9 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\Dev_Teams\obj\Debug\DevTeams_POCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\Dev_Teams\obj\Debug\DevTeams_POCO.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Debug\DevTeams_POCO.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\bin\Debug\Dev_Teams.dll.config
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\bin\Debug\Dev_Teams.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\bin\Debug\Dev_Teams.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Debug\Dev_Teams.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Debug\Dev_Teams.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Debug\DevTeams_POCO.csproj.AssemblyReference.cache

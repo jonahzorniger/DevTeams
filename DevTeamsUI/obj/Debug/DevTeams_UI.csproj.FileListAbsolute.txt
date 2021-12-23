@@ -1,0 +1,14 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeamsUI.exe.config
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeamsUI.exe
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeamsUI.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeams_Repository.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\Dev_Teams.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\DevTeams_Repository.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\Dev_Teams.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\bin\Debug\Dev_Teams.dll.config
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeams_UI.csproj.CopyComplete
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.exe
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeamsUI\obj\Debug\DevTeamsUI.pdb

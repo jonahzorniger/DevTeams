@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "658cb9be-5d83-4130-bad4-843fd6e41dfd": {
+      "ProjectGuid": "658cb9be-5d83-4130-bad4-843fd6e41dfd",
+      "DisplayName": "DevTeams_POCO",
+      "ColorIndex": 0
+    },
+    "bf09ffc0-8701-49c9-9cf8-108273e5bf47": {
+      "ProjectGuid": "bf09ffc0-8701-49c9-9cf8-108273e5bf47",
+      "DisplayName": "DevTeams_Database",
+      "ColorIndex": 1
+    },
+    "b29fe21b-fe6e-416a-8692-a2df45120c4a": {
+      "ProjectGuid": "b29fe21b-fe6e-416a-8692-a2df45120c4a",
+      "DisplayName": "DevTeams_UI",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,6 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\bin\Release\Dev_Teams.dll.config
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\bin\Release\Dev_Teams.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\bin\Release\Dev_Teams.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Release\DevTeams_POCO.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Release\Dev_Teams.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_POCO\obj\Release\Dev_Teams.pdb

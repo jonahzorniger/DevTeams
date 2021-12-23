@@ -1,0 +1,10 @@
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\bin\Release\DevTeams_Repository.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\bin\Release\DevTeams_Repository.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\bin\Release\Dev_Teams.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\bin\Release\Dev_Teams.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\bin\Release\Dev_Teams.dll.config
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\obj\Release\DevTeams_Database.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\obj\Release\DevTeams_Database.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\obj\Release\DevTeams_Database.csproj.CopyComplete
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\obj\Release\DevTeams_Repository.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\DotNetProjects\Dev_Teams\DevTeams_Database\obj\Release\DevTeams_Repository.pdb
